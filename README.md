@@ -1,0 +1,1 @@
+SSH root login is disabled by default as a security feature. If you are still determined to enable root login, ensure that you are using a very secure password for your root account. If the root account gets accessed by a hacker, your whole system will be compromised.
